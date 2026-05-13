@@ -1,2 +1,5 @@
-# Api-FastAPI-Record-Estudiantiles
-Api desarrollada en FastApi y librerias para entrenamiento Ia con Python - Enfocado en Records Academicos directamente en la base de  Moodle
+
+# Backend para Plataforma de Retroalimentación con IA
+
+Este backend está diseñado para integrarse con Moodle y proporcionar retroalimentación inteligente basada en IA, con logs históricos y conexión a base de datos real.
+
